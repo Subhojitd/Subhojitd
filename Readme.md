@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
+![MasterHead](https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Subhajit Das</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
